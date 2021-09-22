@@ -1,0 +1,23 @@
+.body {
+  margin: 0px;
+}
+
+.one {
+  height: 50vh;
+  width: 50vw;
+  background-color: darkgrey;
+  justify-content: space-between;
+  display: flex;
+}
+
+.two {
+  height: 80px;
+  width: 80px;
+  background-color: rgb(248, 0, 0);
+}
+
+.thre {
+  height: 80px;
+  width: 80px;
+  background-color: rgb(247, 4, 4);
+}
